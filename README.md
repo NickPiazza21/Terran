@@ -1,4 +1,7 @@
-Group project for a class on Game Programming with AI. Created a high-score game with Unity where the player, an alien, breaks into government facilities to collect as much data as possible while trying to avoid getting caught by the enemy AI.
+Group project for a college class on Game Programming with AI. 
+Created a high-score game with Unity where the player, an alien, breaks into government facilities to collect as much data as possible while trying to avoid getting caught by the enemy AI.
+Designed and implemented the game’s navigation mesh and enemy AI behaviors (patrol, chase, and attack).
+Led the team as Project Manager, managing the project timeline, organizing regular meetings, and ensuring alignment with course requirements and deadlines.
 
 BUGS:
   - Enemy AI collider and door collider not working right, so enemies walk through doors instead of opening them. 
