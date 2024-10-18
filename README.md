@@ -1,0 +1,1 @@
+Group project for a class on Game Programming with AI. Created a high-score game with Unity where the player, an alien, breaks into government facilities to collect as much data as possible while trying to avoid getting caught by the enemy AI.
