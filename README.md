@@ -3,8 +3,8 @@ Created a high-score game with Unity where the player, an alien, breaks into gov
 Designed and implemented the game’s navigation mesh and enemy AI behaviors (patrol, chase, and attack).
 Led the team as Project Manager, managing the project timeline, organizing regular meetings, and ensuring alignment with course requirements and deadlines.
 
-**BUGS:
-**  - Enemy AI collider and door collider not working right, so enemies walk through doors instead of opening them. 
+**BUGS:**
+  - Enemy AI collider and door collider not working right, so enemies walk through doors instead of opening them. 
 
 ![Screenshot (14)](https://github.com/user-attachments/assets/e333d022-f1ba-49c1-9875-47d178782f13)
 ![Screenshot (15)](https://github.com/user-attachments/assets/4fd882c2-a2a5-45ca-b085-9111783e9abc)
