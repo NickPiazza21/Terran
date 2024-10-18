@@ -1,6 +1,6 @@
 Group project for a class on Game Programming with AI. Created a high-score game with Unity where the player, an alien, breaks into government facilities to collect as much data as possible while trying to avoid getting caught by the enemy AI.
 
-**BUGS**:
+BUGS:
   - Enemy AI collider and door collider not working right, so enemies walk through doors instead of opening them. 
 
 ![Screenshot (14)](https://github.com/user-attachments/assets/e333d022-f1ba-49c1-9875-47d178782f13)
