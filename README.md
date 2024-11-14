@@ -7,7 +7,6 @@ The biggest challenge I faced in this project was not the technical work of deve
   - Enemy AI animation is not configured correctly, so the animations look wonky.
 
 ![Screenshot (14)](https://github.com/user-attachments/assets/e333d022-f1ba-49c1-9875-47d178782f13)
-![Screenshot (15)](https://github.com/user-attachments/assets/4fd882c2-a2a5-45ca-b085-9111783e9abc)
 ![Screenshot (16)](https://github.com/user-attachments/assets/e2b7cc2d-391b-4b62-848d-3a6048c6cd34)
 ![Screenshot (17)](https://github.com/user-attachments/assets/4bf923a9-d0a0-465e-a623-841ed1dbc11e)
 ![Screenshot (18)](https://github.com/user-attachments/assets/fdc3da79-4f5a-4239-9b89-88471e403a2d)
