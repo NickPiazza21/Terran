@@ -9,5 +9,5 @@ The biggest challenge I faced in this project was not the technical work of deve
 ![Screenshot (14)](https://github.com/user-attachments/assets/e333d022-f1ba-49c1-9875-47d178782f13)
 ![Screenshot (16)](https://github.com/user-attachments/assets/e2b7cc2d-391b-4b62-848d-3a6048c6cd34)
 ![Screenshot (17)](https://github.com/user-attachments/assets/4bf923a9-d0a0-465e-a623-841ed1dbc11e)
-![image](https://github.com/user-attachments/assets/b572a2cf-ccdb-4b62-b6a7-6767cfe7fc64)
+![image](https://github.com/user-attachments/assets/b0de3916-e0ad-4a84-84cc-51a99d1f551c)
 ![Screenshot (18)](https://github.com/user-attachments/assets/fdc3da79-4f5a-4239-9b89-88471e403a2d)
